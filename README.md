@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DcodeNischal
-- 👀 I’m interested in Ethical Hacking and Cybersecurity
+- 👀 I’m interested in Web development, Graphics Designing and Offensive Security
 - 🌱 I’m currently learning Networking
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on networking related projects
+- 📫 Reach me @ dnischal11@gmail.com
 
 <!---
 DcodeNischal/DcodeNischal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
