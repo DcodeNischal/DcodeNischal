@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DcodeNischal
-- 👀 I’m interested in Web development, Graphics Designing and Offensive Security
+- 👀 I’m interested in Web development, Networking, Graphics Designing and Offensive Security
 - 🌱 I’m currently learning Networking
 - 💞️ I’m looking to collaborate on networking related projects
 - 📫 Reach me @ dnischal11@gmail.com
