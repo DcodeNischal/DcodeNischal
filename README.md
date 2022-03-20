@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development, Networking and Offensive Security
 - 🌱 I’m currently learning Network Security.
 - 💞️ I’m looking to collaborate on creative projects.
-- 📫 Reach me @ dnischal11@gmail.com
+- 📫 Reach me @ hi@nischaldhakal.com.np
 
 <!---
 DcodeNischal/DcodeNischal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
