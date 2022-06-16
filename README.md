@@ -1,4 +1,4 @@
-#👋 Hi, I’m @DcodeNischal
+- 👋 Hi, I’m @DcodeNischal
 - 👀 I’m interested in Web development, Networking and Offensive Security
 - 🌱 I’m currently learning Network Security.
 - 💞️ I’m looking to collaborate on creative projects.
